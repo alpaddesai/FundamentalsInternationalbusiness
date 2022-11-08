@@ -1,4 +1,4 @@
-# International business
+# International Business
 
 The project is an overview of International business 
 
