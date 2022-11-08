@@ -1,6 +1,8 @@
 # International business
 
-The project had an overview of International business 
+The project is an overview of International business 
+
+#### Reference source International Business by Sumati Varma
 
 ## International Business
 ![image](InternationalBusiness.jpg)
