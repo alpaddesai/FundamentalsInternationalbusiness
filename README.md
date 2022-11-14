@@ -1,4 +1,4 @@
-# International Business
+# Fundamentals of International Business
 
 The project is an overview of International business 
 
