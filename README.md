@@ -3,7 +3,6 @@
 The project is an overview of International business 
 
 ## International Business
-![image](InternationalBusiness.jpg)
 
 ## Certificate
 ![image](project.jpg)
