@@ -5,7 +5,7 @@ The project is an overview of International business
 ## International Business
 
 ## Certificate
-![image](project.jpg)
+![image](FundamentalsInternationalBusiness.jpg)
 
 ## Ethics
 ![image](Ethics.jpg)
