@@ -9,7 +9,7 @@ The project is an overview of International business
 ![image](Ethics.jpg)
 
 ## Certificate
-![imaged](USCopyrightCertificate.png)
+![image](USCopyrightCertificate.png)
 
 #### Reference source International Business by Sumati Varma
 
